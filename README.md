@@ -1,7 +1,9 @@
 # MOPgyphi
 Android application for viewing, searching the trending list of GIFs and uploading - using the Gyphi API. Includes offline support & integrated file explorer.
 
-Limited to 10 uploads per day
+Limited to 10 uploads per day.
+
+Uploaded videos go to: https://giphy.com/channel/Faski
 
 APK download: https://filetransfer.io/data-package/IVwKw74F?do=download
 
