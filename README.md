@@ -1,5 +1,5 @@
 # MOPgyphi
-Android application for viewing, searching the trending list GIFs and uploading - using the Gyphi API. Includes offline support & integrated file explorer.
+Android application for viewing, searching the trending list of GIFs and uploading - using the Gyphi API. Includes offline support & integrated file explorer.
 
 Limited to 10 uploads per day
 
